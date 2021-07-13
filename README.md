@@ -1,6 +1,6 @@
 # ci_fone
 
-Simple System Codeigniter framework, AJAX, MySQL Database
+Simple System CodeIgniter Framework, AJAX, JavaScript, PHP, Bootstrap & MySQL Database.
 
 A big thanks to
 
